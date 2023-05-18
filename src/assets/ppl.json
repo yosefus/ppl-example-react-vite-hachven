@@ -1,0 +1,212 @@
+[
+   {
+      "name": "John",
+      "age": 25,
+      "gender": "boy",
+      "id": 1,
+      "face": "😊"
+   },
+   {
+      "name": "Emma",
+      "age": 30,
+      "gender": "girl",
+      "id": 2,
+      "face": "😄"
+   },
+   {
+      "name": "Michael",
+      "age": 45,
+      "gender": "boy",
+      "id": 3,
+      "face": "😎"
+   },
+   {
+      "name": "Sophia",
+      "age": 28,
+      "gender": "girl",
+      "id": 4,
+      "face": "🥰"
+   },
+   {
+      "name": "Daniel",
+      "age": 32,
+      "gender": "boy",
+      "id": 5,
+      "face": "😃"
+   },
+   {
+      "name": "Olivia",
+      "age": 27,
+      "gender": "girl",
+      "id": 6,
+      "face": "😊"
+   },
+   {
+      "name": "Matthew",
+      "age": 38,
+      "gender": "boy",
+      "id": 7,
+      "face": "😄"
+   },
+   {
+      "name": "Emily",
+      "age": 33,
+      "gender": "girl",
+      "id": 8,
+      "face": "🙂"
+   },
+   {
+      "name": "David",
+      "age": 41,
+      "gender": "boy",
+      "id": 9,
+      "face": "😉"
+   },
+   {
+      "name": "Ava",
+      "age": 29,
+      "gender": "girl",
+      "id": 10,
+      "face": "😍"
+   },
+   {
+      "name": "James",
+      "age": 36,
+      "gender": "boy",
+      "id": 11,
+      "face": "😃"
+   },
+   {
+      "name": "Mia",
+      "age": 24,
+      "gender": "girl",
+      "id": 12,
+      "face": "🥰"
+   },
+   {
+      "name": "Benjamin",
+      "age": 31,
+      "gender": "boy",
+      "id": 13,
+      "face": "🙂"
+   },
+   {
+      "name": "Abigail",
+      "age": 26,
+      "gender": "girl",
+      "id": 14,
+      "face": "😊"
+   },
+   {
+      "name": "Joseph",
+      "age": 39,
+      "gender": "boy",
+      "id": 15,
+      "face": "😄"
+   },
+   {
+      "name": "Charlotte",
+      "age": 35,
+      "gender": "girl",
+      "id": 16,
+      "face": "😃"
+   },
+   {
+      "name": "Daniel",
+      "age": 28,
+      "gender": "boy",
+      "id": 17,
+      "face": "😊"
+   },
+   {
+      "name": "Harper",
+      "age": 32,
+      "gender": "girl",
+      "id": 18,
+      "face": "😍"
+   },
+   {
+      "name": "Jacob",
+      "age": 37,
+      "gender": "boy",
+      "id": 19,
+      "face": "😎"
+   },
+   {
+      "name": "Sofia",
+      "age": 28,
+      "gender": "girl",
+      "id": 20,
+      "face": "🥰"
+   },
+   {
+      "name": "William",
+      "age": 42,
+      "gender": "boy",
+      "id": 21,
+      "face": "😄"
+   },
+   {
+      "name": "Evelyn",
+      "age": 31,
+      "gender": "girl",
+      "id": 22,
+      "face": "😊"
+   },
+   {
+      "name": "Ethan",
+      "age": 34,
+      "gender": "boy",
+      "id": 23,
+      "face": "😃"
+   },
+   {
+      "name": "Amelia",
+      "age": 27,
+      "gender": "girl",
+      "id": 24,
+      "face": "🙂"
+   },
+   {
+      "name": "Alexander",
+      "age": 40,
+      "gender": "boy",
+      "id": 25,
+      "face": "😎"
+   },
+   {
+      "name": "Mila",
+      "age": 29,
+      "gender": "girl",
+      "id": 26,
+      "face": "😍"
+   },
+   {
+      "name": "Michael",
+      "age": 33,
+      "gender": "boy",
+      "id": 27,
+      "face": "🙂"
+   },
+   {
+      "name": "Scarlett",
+      "age": 30,
+      "gender": "girl",
+      "id": 28,
+      "face": "🥰"
+   },
+   {
+      "name": "Matthew",
+      "age": 35,
+      "gender": "boy",
+      "id": 29,
+      "face": "😄"
+   },
+   {
+      "name": "Liam",
+      "age": 26,
+      "gender": "boy",
+      "id": 30,
+      "face": "😊"
+   }
+]
